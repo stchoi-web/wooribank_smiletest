@@ -1,2 +1,3 @@
-# wooribank_smiletest
+# _smiletest
 smiletest
+git leak test
