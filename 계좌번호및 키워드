@@ -2,5 +2,18 @@ smilelog
 계좌번호
 print(bool(pattern.match("1002-123-456789")))  # True
 print(bool(pattern.match("4791234567890")))    # True
-print(bool(pattern.match("1002-12-345")))
+print(bool(pattern.match("1002-124-345")))
+smilelo
+print(bool(pattern.match("1002-123-456789")))  # True
+print(bool(pattern.match("4791234567890")))    # True
+print(bool(pattern.match("1002-124-345")))
 smilelog
+계좌번호
+print(bool(pattern.match("1002-123-456789")))  # True
+print(bool(pattern.match("4791234567890")))    # True
+print(bool(pattern.match("1002-124-345")))
+smilelo
+print(bool(pattern.match("1002-123-456789")))  # True
+print(bool(pattern.match("4791234567890")))    # True
+print(bool(pattern.match("1002-124-345")))
+
